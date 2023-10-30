@@ -11,15 +11,15 @@ Erosion: Erosion removes pixels on object boundaries.
 Open: Erosion followed by Dilation using the same structuring element for both operations.
 Close: Dilation followed by Erosion using the same structuring element for both operations.
 
-Erosion and Dilation
+Erosion and Dilation:
 
-![image](https://github.com/chi-an1997/Morphology/assets/96866028/e3f777d9-8aa9-45a7-9dee-e8be1d159b6c)
+![image](https://github.com/chi-an1997/Morphology/assets/96866028/54b0b242-6f90-4eb8-8b73-2835203f7a8c)
 
 
-Opening
+Opening:
 
 ![image](https://github.com/chi-an1997/Morphology/assets/96866028/8457587c-ff43-41cb-87e1-6c175caf57be)
 
-Closing
+Closing:
 
 ![image](https://github.com/chi-an1997/Morphology/assets/96866028/c9b07fe1-bab6-4eb4-88cc-4693fd46d22a)
